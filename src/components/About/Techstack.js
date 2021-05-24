@@ -8,7 +8,6 @@ import {
     DiReact,
     DiNodejs,
     DiMongodb,
-    DiPython,
     DiGit,
 } from "react-icons/di";
 import { SiMysql, SiFirebase, SiTailwindcss } from "react-icons/si";
